@@ -1,0 +1,6 @@
+{
+  "name": "SafeCrypto BD",
+  "description": "Learn Crypto, Avoid Scams. Your AI-powered companion for safe crypto investing, educational courses, and portfolio tracking in Bangladesh.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
